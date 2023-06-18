@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="hernawan">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Mobile-Programming-2.2-master.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Mobile-Programming-4.2-main.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Mobile-Programming-5.2-main.zip!/" />
+      <root url="jar://$PROJECT_DIR$/MobileProgramming10.2-main.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Mobile-Programming-2.1-master.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Mobile-Programming-1.2-1.3-master.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Mobile-Programming-4.4-main.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Mobile-Programming-4.3-main.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Mobile-Programming-5.1-main.zip!/" />
+      <root url="jar://$PROJECT_DIR$/MobileProgramming10.1-main.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
